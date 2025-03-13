@@ -8,6 +8,7 @@ import 'package:movies_app/models/movie.dart';
 import 'package:movies_app/routing/app_router.gr.dart';
 import 'package:movies_app/widgets/elevated_button.dart';
 
+//update
 class HomeScreen extends StatefulWidget {
   const HomeScreen({Key? key}) : super(key: key);
 
